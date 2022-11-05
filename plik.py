@@ -1,2 +1,4 @@
 print("Czesc jestem Wikotoria")
-print("Tu przedstawi sie kolega/kolezanka")
+print("IT WAS ME, DIO!")
+
+ #TU DU TURUDUDUTUDUTU TUUUDU TURUDUDUDUDU TU TUU TU TURURURURU !
